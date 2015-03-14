@@ -1,0 +1,6 @@
+Controls:
+
+Enter: Start/pause game
+Spacebar: Player 1 jump
+S: Player 2 jump
+M: Open menu
